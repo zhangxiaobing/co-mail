@@ -1,0 +1,31 @@
+{
+  "name": "co-mail",
+  "version": "0.0.1",
+  "description": "nodemailer wrapper for co",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coderhaoxin/co-mail.git"
+  },
+  "keywords": [
+    "co",
+    "email",
+    "mail",
+    "nodemailer"
+  ],
+  "author": "haoxin",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/coderhaoxin/co-mail/issues"
+  },
+  "homepage": "https://github.com/coderhaoxin/co-mail",
+  "dependencies": {
+    "nodemailer": "~0.5.15"
+  },
+  "devDependencies": {
+    "co": "~3.0.1"
+  }
+}
