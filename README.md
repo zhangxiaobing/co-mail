@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/co-mail.png?downloads=true)](https://nodei.co/npm/co-mail/)
+
 ## nodemailer wrapper for co
 
 ### install
